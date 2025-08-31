@@ -10,19 +10,19 @@ It fetches puzzles from public Sudoku APIs and also includes a backtracking solv
 ### Initial Preview
 
 <p align="center">
-  <img src="app_preview/initial_preview.PNG" width="700" alt="Sudoku initial empty grid">
+  <img src="initial_preview.PNG" width="700" alt="Sudoku initial empty grid">
 </p>
 
 ### Generate Puzzle
 
 <p align="center">
-  <img src="app_preview/generate_puzzle.PNG" width="700" alt="Sudoku generate puzzle example">
+  <img src="generate_puzzle.PNG" width="700" alt="Sudoku generate puzzle example">
 </p>
 
 ### Solve Puzzle
 
 <p align="center">
-  <img src="app_preview/solve_puzzle.PNG" width="700" alt="Sudoku solve puzzle example">
+  <img src="solve_puzzle.PNG" width="700" alt="Sudoku solve puzzle example">
 </p>
 
 ---
