@@ -78,7 +78,7 @@ button.onclick = async function () {
   xhrRequest.send();
 };
 
-//to be completed by student
+
 function isPossible(board, sr, sc, val) {
   for (var row = 0; row < 9; row++) {
     if (board[row][sc] == val) {
@@ -105,7 +105,7 @@ function isPossible(board, sr, sc, val) {
   return true;
 }
 
-//to be completed by student
+
 function solveSudokuHelper(board, sr, sc) {
   if (sr == 9) {
     changeBoard(board);
@@ -139,3 +139,4 @@ function solveSudoku(board) {
 solve.onclick = function () {
   solveSudoku(board);
 };
+
